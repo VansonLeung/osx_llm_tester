@@ -1,5 +1,7 @@
 # OSX LLM Tester
 
+<img src="./s1.jpeg" width="100%" />
+
 Native macOS menu-bar app for testing OpenAI-compatible endpoints. It opens from a `network` template icon and keeps the tester in a compact popover.
 
 ## Included
